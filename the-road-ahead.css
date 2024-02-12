@@ -18,6 +18,7 @@
     font-size: 26px;
     height: 26px;
     line-height: 26px;
+    font-family: 'Lora';
 }
 
 .menu {
@@ -30,6 +31,7 @@
 .menu-item {
     color: #2E2E2E;
     font-size: 12px;
+    font-family: 'Oxygen';
     height: 12px;
     line-height: 12px;
     padding: 0 20px 2px;
@@ -48,6 +50,7 @@
     font-size: 24px;
     line-height: 35px;
     padding: 140px 0 135px;
+    font-family: 'Oxygen';
 }
 
 .title {
@@ -56,6 +59,7 @@
     font-size: 50px;
     line-height: 51px;
     padding: 89px 0 20px;
+    font-family: 'Lora';
 }
 
 .subtitle {
@@ -65,6 +69,7 @@
     font-size: 17px;
     line-height: 20px;
     padding: 0 0 113px;
+    font-family: 'Oxygen';
 }
 
 .main-image{
@@ -93,6 +98,7 @@
     font-size: 26px;
     height: 26px;
     line-height: 26px;
+    font-family: 'Lora';
 }
 
 .footer-menu {
@@ -110,4 +116,5 @@
     line-height: 12px;
     padding: 0 20px 2px;
     text-align: center;
+    font-family: 'Oxygen';
 }
