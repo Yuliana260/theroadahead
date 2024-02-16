@@ -17,15 +17,12 @@
     color: #2E2E2E;
     font-size: 26px;
     height: 26px;
-    line-height: 26px;
     font-family: 'Lora';
 }
 
 .menu {
-    margin: 0;
     display: flex;
     list-style: none;
-    align-items: end;
 }
 
 .menu-item {
