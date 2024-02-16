@@ -25,7 +25,7 @@
     list-style: none;
 }
 
-.menu-item {
+.link {
     color: #2E2E2E;
     font-size: 12px;
     font-family: 'Oxygen';
@@ -33,7 +33,9 @@
     line-height: 12px;
     padding: 0 20px 2px;
     text-align: center;
+    text-decoration: none;
 }
+
 
 .text-container {
     display: flex;
@@ -106,7 +108,7 @@
     align-items: end;
 }
 
-.footer-menu-item {
+.footer-link {
     color: #FFFFFF;
     opacity: 0.6;
     font-size: 12px;
@@ -115,4 +117,5 @@
     padding: 0 20px 2px;
     text-align: center;
     font-family: 'Oxygen';
+    text-decoration: none;
 }
