@@ -72,8 +72,36 @@
     color:#101315;
     font-size: 24px;
     line-height: 35px;
-    margin: 140px 0 135px;
+    margin: 140px 0 30px;
     font-family: 'Oxygen';
+}
+
+.additional{
+    margin: 0 0 50px;
+}
+
+.add-image{
+    width: 30%;
+    margin: 0 0 0 190px;
+}
+
+.add-text{
+    float: right;
+    margin: 150px 180px 0 0;
+    font-family: 'Roboto';
+}
+.add-title{
+    text-align: center;
+}
+
+.add-facts{
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.add-link{
+    color: #000000;
+    text-decoration: none;
 }
 
 .footer-conteiner{
@@ -102,7 +130,7 @@
 }
 
 .footer-menu {
-    margin: 0;
+    margin: 5px 0 0;
     display: flex;
     list-style: none;
     align-items: end;
