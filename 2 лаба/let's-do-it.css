@@ -62,7 +62,7 @@
     font-family: 'Oxygen';
 }
 
-.push {
+.push-link {
     text-align: center;
     color: #FFFFFF;
     font-size: 13px;
@@ -72,9 +72,6 @@
     padding: 12px 31px;
     background-color:#DD783F;
     width: 10%;
-}
-
-.push-link {
     color: #FFFFFF;
     text-decoration: none;
 }
